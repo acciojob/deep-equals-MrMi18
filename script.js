@@ -1,4 +1,5 @@
 function deepEquals(a, b) {
+	return a===b;
  
 }
 
